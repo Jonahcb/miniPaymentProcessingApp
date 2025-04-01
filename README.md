@@ -32,5 +32,13 @@ Start Tomcat and access the app at:
 
 
 
+##  Additional Resources:
+
+### HMAC
+- Helpful video: https://www.youtube.com/watch?v=MKn3cxFNN1I
+
+
+
+
 
 
