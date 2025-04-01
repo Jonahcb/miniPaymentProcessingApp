@@ -1,0 +1,13 @@
+# Visa keys and secrets
+visa/
+*.pem
+
+# Maven target directory
+/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS
+.DS_Store
